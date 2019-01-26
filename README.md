@@ -5,9 +5,6 @@
 
 Global Game Jam 2019
 
-![Image Zoomed Out](https://i.imgur.com/BQe9rwE.png)
-
-![Image Normal](https://i.imgur.com/ucMb1Eo.png)
 
 Made in Go, using [Faiface's Pixel](https://github.com/faiface/pixel) as a library for rendering, input, and window.
 
