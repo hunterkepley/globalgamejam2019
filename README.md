@@ -5,6 +5,7 @@
 
 Global Game Jam 2019
 
+# Got sick during this and had to quit on the first day.
 
 Made in Go, using [Faiface's Pixel](https://github.com/faiface/pixel) as a library for rendering, input, and window.
 
